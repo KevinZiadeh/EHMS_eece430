@@ -12,7 +12,7 @@ add, delete and edit patients, doctors and appointments; as well as gets a month
 To be able to run the Django server, you need to have the following tools on your machine
 ```
 * Python 3.7+
-* Django 3.1.6+
+* Django 3.1.6<4
 ```
 There are a number of packages to install. You can do that by running:
 ```
@@ -30,3 +30,13 @@ $ python manage.py runserver 0.0.0.0:8000
 ```
 You should create a manager using the admin portal once.
 To run the chat server, enter the command `python manage.py run_chat_server` from a seperate terminal after running `python manage.py runserver`
+
+![](res/1.PNG?raw=true)
+---
+![](res/2.PNG?raw=true)
+---
+![](res/3.PNG?raw=true)
+---
+![](res/4.PNG?raw=true)
+---
+![](res/5.PNG?raw=true)

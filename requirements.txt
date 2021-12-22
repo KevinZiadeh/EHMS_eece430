@@ -1,5 +1,5 @@
 datetime
-django
+django<4
 django-private-chat
 apscheduler
 websockets
