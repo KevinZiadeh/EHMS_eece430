@@ -1,5 +1,5 @@
-# EHMS_eece430
-> Django based application for an E Healthcare Management System developped for university course.
+# E-Health Management System
+> University Project (EECE 430 - Software Engineering @ AUB) where we develop a Django based application for an E Healthcare Management System.
 
 ## Overview
 E Healthcare Management System with login, signup and registration. This project allows the user to signup/login as a 
